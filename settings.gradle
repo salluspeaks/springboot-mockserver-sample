@@ -1,0 +1,5 @@
+rootProject.name = 'userservice'
+include 'component-test'
+include 'service'
+findProject(':service')?.name = 'user-service'
+

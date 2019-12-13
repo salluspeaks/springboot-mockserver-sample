@@ -1,0 +1,9 @@
+
+
+
+server:
+  port: 8081
+
+
+endpoint:
+  validationBaseUrl: http://host:port/validate
